@@ -1,3 +1,3 @@
 # weather-app
 ## To visit the app click on following link:
-### *https://ornate-rabanadas-5cffcf.netlify.app*
+### *[https://tanmayasamantray.github.io/weather-app/](https://tanmayasamantray.github.io/weather-app/)*
